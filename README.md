@@ -1,16 +1,16 @@
 # 54P Solutions
 
-We build **54PowerTools** — technical helpers for SAP Systems.
+We build **54PowerTools** — accelerators for SAP Systems in projects, run and maintain.
 
 Our tools solve the problems that slow deployment down: transport chaos, uncontrolled custom code, and missing governance gates.
 Everything ships in the registered namespace `/S4P0/`, follows Clean Core principles, and is built to survive upgrades.
 
 ## What we build
 
-- **Transport Guard** — CTS+ transport governance: ticket linkage, Transport of Copy enforcement, Workbench/Customizing separation
-- **Enhancement Framework** — central registry and encapsulation for all custom enhancements
-- **F4 Filter / Configuration Control** — value-help filtering and customizing discipline
-- **SD Pricing API** — high-performance pricing service with buffer architecture and predictive warm-up
+- **Deployment Control** — CTS+ transport governance: ticket linkage, Transport of Copy enforcement, Workbench/Customizing separation
+- **Configuration Control** — value-help filtering and customizing discipline
+- **Extension Control** — central registry and encapsulation for all custom enhancements
+- **Application Accelerators** — application based accelerators like our "SD Pricing API", that enables high-performance pricing for e.g. WebShops with buffer architecture and predictive warm-up
 
 ## How we work
 
